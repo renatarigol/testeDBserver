@@ -27,6 +27,7 @@
 1. Classe TesteDBserver: para a execução do teste.
 2. Classe DSL: tem o intuito de concentrar código repetido, criando um padrão de codificação, será chamada a partir da TesteDBserver.
 3. Classe ShopCartPage: tem o intuito de ser a classe de pageobjects, será chamada a partir da TesteDBserver.
+4. Havia previsto a criação de mais 4 classes: uma de suite de testes, uma para tratamento de dados e testes de UI, uma com os cenários de negócio e uma outra para screeshots - não consegui finalizá-las, se quiserem que eu as desenvolva ou organize a estrutura delas é só avisar.
 
 #Qualquer dúvida, basta entrar em contato.
 
